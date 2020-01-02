@@ -3,7 +3,7 @@ package hash.level1;
 public class Main {
 	
 	public static void main(String[] args) {
-		Solution1 s = new Solution1();
+		Solution1_1 s = new Solution1_1();
 			
 		String[] participant = new String[] {"leo","kiki","eden"};
 		String[] completion = new String[] {"eden","kiki"};

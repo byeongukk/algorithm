@@ -4,6 +4,7 @@ public class Solution1 {
     
 	public String solution(String[] participant, String[] completion) {
 		String answer = "";
+		
 		for(int i=0; i < participant.length; i++) {
 			for(int j=0; j < completion.length; j++) {
 				
@@ -20,7 +21,11 @@ public class Solution1 {
 				}
 			}
 		}
-		   return answer;
+		
+	
+		
+		
+		return answer;
 	}
 
 }
